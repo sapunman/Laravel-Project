@@ -2,7 +2,7 @@
 
 @section('main-container')
     
-    <!-- o meni -->
+    <!-- about -->
     <section id="usluge" class="py">
       <article class="container text-center text-white">
         <h2 class="display-4">Our Services</h2>
@@ -73,7 +73,7 @@
       </article>
     </section>
 
-    <!-- iskustvo -->
+    <!-- services -->
     <section id="iskustvo" class="py text-white">
       <article class="container">
         <div class="row">
@@ -130,10 +130,8 @@
       </article>
     </section>
 
-    <!-- tehnologije -->
-   
-
-    <!-- portfolio -->
+      
+    <!-- team -->
     <section id="portfolio" class="py text-center text-white">
       <article class="container">
         <div class="row">
@@ -165,7 +163,7 @@
       </article>
     </section>
 
-    <!-- kontakt -->
+    <!-- contact -->
     <section id="kontakt" class="py">
       <article class="container text-center text-white">
         <h2 class="display-4 mb-5">Contact us</h2>
