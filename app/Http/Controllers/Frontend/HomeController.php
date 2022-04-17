@@ -14,4 +14,12 @@ class HomeController extends Controller
     public function gallery() {
         return view('frontend.gallery');
     }
+
+    public function blog() {
+        return view('frontend.blog');
+    }
+
+    public function contact() {
+        return view('frontend.contact');
+    }
 }

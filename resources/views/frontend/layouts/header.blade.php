@@ -50,10 +50,10 @@
               <a class="nav-link" href="{{route('frontend.gallery')}}">Gallery</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Blog</a>
+              <a class="nav-link" href="{{route('frontend.blog')}}">Blog</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Contact</a>
+              <a class="nav-link" href="{{route('frontend.contact')}}">Contact</a>
             </li>
           </ul>
         </div>

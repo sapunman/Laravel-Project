@@ -16,3 +16,5 @@ use App\Http\Controllers\Frontend\HomeController;
 
 Route::get('/', [HomeController::class, 'index']);
 Route::get('frontend/gallery', [HomeController::class, 'gallery'])->name('frontend.gallery');
+Route::get('frontend/blog', [HomeController::class, 'blog'])->name('frontend.blog');
+Route::get('frontend/contact', [HomeController::class, 'contact'])->name('frontend.contact');
